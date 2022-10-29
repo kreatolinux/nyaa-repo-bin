@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='libpng'
+VERSION='1.6.35'
+IS_BINARY='y'

@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='seatd'
+VERSION='0.7.0'
+IS_BINARY='y'

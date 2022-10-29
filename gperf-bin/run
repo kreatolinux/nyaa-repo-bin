@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='gperf'
+VERSION='3.1'
+IS_BINARY='y'

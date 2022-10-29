@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='libressl'
+VERSION='3.5.3'
+IS_BINARY='y'

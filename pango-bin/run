@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='pango'
+VERSION='1.50.10'
+IS_BINARY='y'

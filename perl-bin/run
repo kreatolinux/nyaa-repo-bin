@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='perl'
+VERSION='5.36.0'
+IS_BINARY='y'

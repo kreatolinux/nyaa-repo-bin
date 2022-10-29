@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='gcc'
+VERSION='12.2.0'
+IS_BINARY='y'

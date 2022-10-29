@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='cairo'
+VERSION='1.17.6'
+IS_BINARY='y'

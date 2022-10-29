@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='wayland'
+VERSION='1.21.0'
+IS_BINARY='y'

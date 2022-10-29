@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='libarchive'
+VERSION='3.6.1'
+IS_BINARY='y'

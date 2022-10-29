@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='builder-essentials'
+VERSION='0.1'
+IS_BINARY='y'

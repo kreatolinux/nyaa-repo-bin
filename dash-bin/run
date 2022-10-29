@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='dash'
+VERSION='0.5.11.5'
+IS_BINARY='y'

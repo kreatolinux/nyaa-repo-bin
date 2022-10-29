@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='libuv'
+VERSION='1.44.2'
+IS_BINARY='y'

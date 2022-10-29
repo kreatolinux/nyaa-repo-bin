@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='libxcrypt'
+VERSION='4.4.28'
+IS_BINARY='y'

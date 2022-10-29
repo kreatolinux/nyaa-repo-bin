@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='wpa_supplicant'
+VERSION='2.10'
+IS_BINARY='y'

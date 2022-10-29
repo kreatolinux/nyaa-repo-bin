@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='readline'
+VERSION='8.1.2'
+IS_BINARY='y'

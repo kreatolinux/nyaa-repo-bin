@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='texinfo'
+VERSION='6.8'
+IS_BINARY='y'

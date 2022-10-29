@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='nyaa'
+VERSION='1.8a'
+IS_BINARY='y'

@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='meson'
+VERSION='0.63.2'
+IS_BINARY='y'

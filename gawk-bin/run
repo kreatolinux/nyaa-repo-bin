@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='gawk'
+VERSION='5.2.0'
+IS_BINARY='y'

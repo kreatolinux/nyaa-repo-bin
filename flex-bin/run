@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='flex'
+VERSION='2.6.4'
+IS_BINARY='y'

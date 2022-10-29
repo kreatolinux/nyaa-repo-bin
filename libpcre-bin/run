@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='pcre'
+VERSION='8.45'
+IS_BINARY='y'

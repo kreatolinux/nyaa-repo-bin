@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='busybox'
+VERSION='1.34.1'
+IS_BINARY='y'

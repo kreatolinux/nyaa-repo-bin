@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='gmake'
+VERSION='4.3'
+IS_BINARY='y'

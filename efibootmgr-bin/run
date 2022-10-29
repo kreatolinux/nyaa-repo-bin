@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='efibootmgr'
+VERSION='18'
+IS_BINARY='y'

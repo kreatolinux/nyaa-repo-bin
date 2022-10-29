@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='pixman'
+VERSION='0.40.0'
+IS_BINARY='y'

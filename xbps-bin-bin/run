@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='xbps-bin'
+VERSION='0.59_5'
+IS_BINARY='y'

@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='libtasn'
+VERSION='4.19.0'
+IS_BINARY='y'

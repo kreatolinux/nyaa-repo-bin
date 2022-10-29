@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='libzstd'
+VERSION='1.5.1'
+IS_BINARY='y'

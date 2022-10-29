@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='glib'
+VERSION='2.74.0'
+IS_BINARY='y'

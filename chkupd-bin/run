@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='chkupd'
+VERSION='1.2'
+IS_BINARY='y'

@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='wlroots'
+VERSION='0.15.1'
+IS_BINARY='y'

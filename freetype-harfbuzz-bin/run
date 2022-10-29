@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='freetype-harfbuzz'
+VERSION='0.1'
+IS_BINARY='y'

@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='p11-kit'
+VERSION='0.24.1'
+IS_BINARY='y'

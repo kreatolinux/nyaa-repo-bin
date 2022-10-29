@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='sway'
+VERSION='1.7'
+IS_BINARY='y'

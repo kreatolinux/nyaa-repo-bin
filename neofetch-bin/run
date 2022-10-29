@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='neofetch'
+VERSION='7.1.0'
+IS_BINARY='y'

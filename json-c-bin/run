@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='json-c'
+VERSION='0.16'
+IS_BINARY='y'

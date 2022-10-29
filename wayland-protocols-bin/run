@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='wayland-protocols'
+VERSION='1.26'
+IS_BINARY='y'

@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='binutils'
+VERSION='2.39'
+IS_BINARY='y'
