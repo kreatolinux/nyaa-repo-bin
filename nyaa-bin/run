@@ -1,4 +1,4 @@
 #!/bin/sh
 NAME='nyaa'
-VERSION='1.8a'
+VERSION='1.9'
 IS_BINARY='y'
