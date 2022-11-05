@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='llvm'
+VERSION='15.0.4'
+IS_BINARY='y'
