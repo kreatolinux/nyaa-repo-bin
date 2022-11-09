@@ -1,4 +1,4 @@
 #!/bin/sh
 NAME='linux-headers'
-VERSION='5.19.12'
+VERSION='6.0'
 IS_BINARY='y'
