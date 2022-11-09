@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='diffutils'
+VERSION='3.8'
+IS_BINARY='y'
