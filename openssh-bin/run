@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='openssh'
+VERSION='9.1p1'
+IS_BINARY='y'

@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='kmod'
+VERSION='30'
+IS_BINARY='y'

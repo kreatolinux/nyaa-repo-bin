@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='nasm'
+VERSION='2.15.05'
+IS_BINARY='y'

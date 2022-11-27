@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='linux-firmware'
+VERSION='20221109'
+IS_BINARY='y'

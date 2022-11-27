@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='musl'
+VERSION='1.2.3'
+IS_BINARY='y'

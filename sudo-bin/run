@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='sudo'
+VERSION='1_9_12p1'
+IS_BINARY='y'

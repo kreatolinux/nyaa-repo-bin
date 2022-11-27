@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='openrc'
+VERSION='0.45.2'
+IS_BINARY='y'

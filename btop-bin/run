@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='btop'
+VERSION='1.2.13'
+IS_BINARY='y'

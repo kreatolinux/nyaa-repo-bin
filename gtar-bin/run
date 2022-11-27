@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='gtar'
+VERSION='1.34'
+IS_BINARY='y'

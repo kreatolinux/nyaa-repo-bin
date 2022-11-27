@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='ostree'
+VERSION='2022.6'
+IS_BINARY='y'

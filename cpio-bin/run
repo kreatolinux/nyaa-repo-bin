@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='cpio'
+VERSION='2.13'
+IS_BINARY='y'

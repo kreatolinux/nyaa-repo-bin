@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='gdk-pixbuf'
+VERSION='2.42.9'
+IS_BINARY='y'

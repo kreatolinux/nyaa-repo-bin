@@ -1,0 +1,4 @@
+#!/bin/sh
+NAME='limine'
+VERSION='4.20221102.0'
+IS_BINARY='y'
