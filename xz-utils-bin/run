@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='xz-utils'
-VERSION='5.2.7'
-IS_BINARY='y'

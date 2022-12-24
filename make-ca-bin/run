@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='make-ca'
-VERSION='1.7'
-IS_BINARY='y'

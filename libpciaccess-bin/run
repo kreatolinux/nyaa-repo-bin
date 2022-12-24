@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libpciaccess'
-VERSION='0.16'
-IS_BINARY='y'

@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='fuse'
-VERSION='3.12.0'
-IS_BINARY='y'

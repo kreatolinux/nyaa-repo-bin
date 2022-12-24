@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='mpc'
-VERSION='1.2.1'
-IS_BINARY='y'

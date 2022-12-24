@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libevdev'
-VERSION='1.13.0'
-IS_BINARY='y'

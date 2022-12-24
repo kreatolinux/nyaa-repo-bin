@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='autoconf'
-VERSION='2.71'
-IS_BINARY='y'

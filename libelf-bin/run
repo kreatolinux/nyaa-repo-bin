@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='elfutils'
-VERSION='0.187'
-IS_BINARY='y'

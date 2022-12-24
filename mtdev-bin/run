@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='mtdev'
-VERSION='1.1.6'
-IS_BINARY='y'

@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='popt'
-VERSION='1.18'
-IS_BINARY='y'

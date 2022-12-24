@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='expat'
-VERSION='2.4.9'
-IS_BINARY='y'

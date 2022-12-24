@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libdrm'
-VERSION='2.4.113'
-IS_BINARY='y'

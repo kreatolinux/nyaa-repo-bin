@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='pipewire'
-VERSION='0.3.59'
-IS_BINARY='y'

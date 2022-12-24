@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='util-linux'
-VERSION='2.38'
-IS_BINARY='y'

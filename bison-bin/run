@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='bison'
-VERSION='3.8.2'
-IS_BINARY='y'

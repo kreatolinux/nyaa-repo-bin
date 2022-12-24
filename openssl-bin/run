@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='openssl'
-VERSION='3.0.7'
-IS_BINARY='y'

@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libcap'
-VERSION='2.66'
-IS_BINARY='y'

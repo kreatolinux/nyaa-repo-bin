@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='yaml'
-VERSION='0.2.5'
-IS_BINARY='y'

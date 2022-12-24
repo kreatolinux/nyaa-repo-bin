@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libffi'
-VERSION='3.4.3'
-IS_BINARY='y'

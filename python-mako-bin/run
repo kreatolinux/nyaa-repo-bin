@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='python-mako'
-VERSION='1.2.3'
-IS_BINARY='y'

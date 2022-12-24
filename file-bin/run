@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='file'
-VERSION='5.43'
-IS_BINARY='y'

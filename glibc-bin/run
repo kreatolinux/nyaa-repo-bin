@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='glibc'
-VERSION='2.36'
-IS_BINARY='y'

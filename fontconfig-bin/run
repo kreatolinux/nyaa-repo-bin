@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='fontconfig'
-VERSION='2.14.0'
-IS_BINARY='y'

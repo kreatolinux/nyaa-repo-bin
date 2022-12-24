@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='xkeyboard-config'
-VERSION='2.37'
-IS_BINARY='y'

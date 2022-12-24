@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libxml2'
-VERSION='2.10.2'
-IS_BINARY='y'

@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='mpfr'
-VERSION='4.1.0'
-IS_BINARY='y'

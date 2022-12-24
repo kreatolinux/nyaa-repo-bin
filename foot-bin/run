@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='foot'
-VERSION='1.13.1'
-IS_BINARY='y'

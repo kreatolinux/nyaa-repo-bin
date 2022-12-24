@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='samurai'
-VERSION='1.2'
-IS_BINARY='y'

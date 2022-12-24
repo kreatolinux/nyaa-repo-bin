@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='atk'
-VERSION='2.38.0'
-IS_BINARY='y'

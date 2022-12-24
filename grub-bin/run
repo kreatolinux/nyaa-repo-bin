@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='grub'
-VERSION='2.06'
-IS_BINARY='y'

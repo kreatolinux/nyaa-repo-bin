@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='git'
-VERSION='2.37.3'
-IS_BINARY='y'

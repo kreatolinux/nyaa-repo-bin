@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='efivar'
-VERSION='38'
-IS_BINARY='y'

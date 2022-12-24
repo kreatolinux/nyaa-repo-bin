@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='dhcpcd'
-VERSION='9.4.1'
-IS_BINARY='y'

@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='dracut'
-VERSION='057'
-IS_BINARY='y'

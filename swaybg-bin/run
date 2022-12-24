@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='swaybg'
-VERSION='1.1.1'
-IS_BINARY='y'

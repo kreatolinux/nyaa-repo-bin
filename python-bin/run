@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='python'
-VERSION='3.10.7'
-IS_BINARY='y'

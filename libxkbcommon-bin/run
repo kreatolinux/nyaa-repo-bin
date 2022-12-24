@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libxkbcommon'
-VERSION='1.4.1'
-IS_BINARY='y'

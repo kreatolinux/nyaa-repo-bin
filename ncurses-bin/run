@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='ncurses'
-VERSION='6.3'
-IS_BINARY='y'

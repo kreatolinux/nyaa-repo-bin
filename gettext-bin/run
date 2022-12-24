@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='gettext'
-VERSION='0.21'
-IS_BINARY='y'

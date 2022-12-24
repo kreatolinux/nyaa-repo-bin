@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='e2fsprogs'
-VERSION='1.46.5'
-IS_BINARY='y'

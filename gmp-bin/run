@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='gmp'
-VERSION='6.2.1'
-IS_BINARY='y'

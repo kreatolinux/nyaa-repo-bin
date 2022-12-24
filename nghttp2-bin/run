@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='nghttp2'
-VERSION='1.47.0'
-IS_BINARY='y'

@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='grim'
-VERSION='1.4.0'
-IS_BINARY='y'

@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libglvnd'
-VERSION='1.6.0'
-IS_BINARY='y'

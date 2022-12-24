@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='procps-ng'
-VERSION='4.0.0'
-IS_BINARY='y'

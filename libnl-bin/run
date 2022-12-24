@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libnl'
-VERSION='3.7.0'
-IS_BINARY='y'

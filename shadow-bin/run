@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='shadow'
-VERSION='4.12.3'
-IS_BINARY='y'

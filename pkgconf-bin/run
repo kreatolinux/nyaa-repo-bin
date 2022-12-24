@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='pkgconf'
-VERSION='1.8.0'
-IS_BINARY='y'

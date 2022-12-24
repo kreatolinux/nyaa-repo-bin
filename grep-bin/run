@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='gnu-grep'
-VERSION='3.8'
-IS_BINARY='y'

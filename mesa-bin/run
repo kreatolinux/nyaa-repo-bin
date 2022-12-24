@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='mesa'
-VERSION='22.2.0'
-IS_BINARY='y'

@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='msgpack-c'
-VERSION='4.0.0'
-IS_BINARY='y'

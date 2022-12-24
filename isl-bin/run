@@ -1,4 +1,0 @@
-#!/bin/sh
-NAME='libisl'
-VERSION='0.24'
-IS_BINARY='y'
